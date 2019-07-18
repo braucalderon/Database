@@ -1,7 +1,6 @@
 # Database
 
-•	The program is made based upon company policy
-•	Based on the company policy, the program will do the following:
+•	The program is made based upon company policy. Based on the company policy, the program will do the following:
 
     	Keep records on guest and resident overnight usage based on the overnight policy
     	Keep track of total nights on each guest and resident with separate count on free nights and nights that are being charged.
