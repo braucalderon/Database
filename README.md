@@ -13,6 +13,9 @@
     	The program will update(delete) data not being used by updating the overnights based on the dates.
     	Each employee has their log in profile.
     	Employees with administrative privileges can correct data and add employees into the system.
+       The program will provide information for already registered employess with the key(password) assign to them.
+       The program will provide a list of employers along of available keys(passwords) to avoid of deleting current employers.
+       Authentication of credentials in the system and database.
     
 •	The system will implement a monthly file record with all the activity for upper management.
 
