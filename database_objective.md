@@ -11,7 +11,6 @@
        User can save notes to each resident profile.
        User can input nights to a new guest and existing guest.
        The program will update(delete) data not being used by updating the overnights based on the dates.
-       Each employee has their log in profile.
        Employees with administrative privileges can correct data and add employees into the system.
        The program will provide information of already registered employers with the key(password) assign to them.
        The program will provide a list of employers along of available keys(passwords) to avoid of deleting current employers.
