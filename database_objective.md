@@ -27,7 +27,7 @@ The hardest part to implement concepts such encapsulation into the program was t
 
 FOR LOOPS
 <p align = "justify">
-Iterations using for loops were used to cut unnecessary extra code and for batter functionality. I learned new techniques using for loops to achieve a faster output by implementing statements.  A lot of triggers that could be implemented into the database were implemented into the code. I only learned the basic update and select statements specifying specific data, as well to loop throughout the whole table.</p>
+Iterations using for loops were used to cut unnecessary extra code and for better functionality. I learned new techniques using for loops to achieve a faster output by implementing statements.  A lot of triggers that could be implemented into the database were implemented into the code. I only learned the basic update and select statements specifying specific data, as well to loop throughout the whole table.</p>
 
 BRANCHING USING IF-ELSE STATEMENTS 
 <p align = "justify">
