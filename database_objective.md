@@ -12,6 +12,7 @@ The imagine below shows the structure of the database. </p>
 
 Login
 
+<img width="476" alt="Screen Shot 2019-07-25 at 4 12 31 PM" src="https://user-images.githubusercontent.com/17528320/61905800-ed208f80-aef7-11e9-9f97-bc2582df6c63.png">
 
 
 
