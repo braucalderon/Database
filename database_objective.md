@@ -1,23 +1,10 @@
 # Database
 
-•	The program is made based upon company policy, the program will do the following:
+This GIU-base API was deigned to tailor to specific overnight policy.
+The overnight policy is based on student-housing policy, the policy consists on a maximum of 6 free nights with a period wait of 30 days for each night used. For Example, student x has 6 free nights and wants to registered his guest for one overnight, June 6th will be registered as one overnight used in the student’s profile, the student will have 5 free nights left and by July 6th the student will get back the overnight used into the student’s profile which it will be get back to 6 free nights. The 6 free nights will not reset every month.
+The software will not only communicate and retrieve data from the database. The overnight policy is implemented into the software. The user is responsible to input the correct data into the databased and the program will do the rest.
 
-       Keep records on guest and resident overnight usage based on the overnight policy.
-       Keep track of total nights on each guest and resident with separate count on free nights and nights that are being charged.
-       The program will update each night used after 30 days for both the resident and the guest.
-       Update new upcoming residents from a .csv file into the database.
-       Search guest by last name displaying the guest overnight history.
-       User can pull three different searches from the database, overnight dates, guest overnight history, and resident’s overnight history including each guest that the resident has been hosting.
-       User can save notes to each resident profile.
-       User can input nights to a new guest and existing guest.
-       The program will update(delete) data not being used by updating the overnights based on the dates.
-       Employees with administrative privileges can correct data and add employees into the system.
-       The program will provide information of already registered employers with the key(password) assign to them.
-       The program will provide a list of employers along of available keys(passwords) to avoid of deleting current employers.
-       Authentication of credentials in the system and database.
-
-    
-•	The system will implement a monthly file record with all the activity for upper management.
+The program will do the following tasks, update overnights, distribute data into the panel based on the user request, adding and subtracting days based on user input and updated overnights by the system. A separated registration GUI system is added with administrative privileges to delete wrong data input the user and registered employees into the system.  
 
 
 
