@@ -23,7 +23,7 @@ CHALLENGES:
 
 POLYMORPHISM & ENCAPSULATION
 <p align = "justify">
-The hardest part to implement concepts such encapsulation into the program was to think beyond the meaning of the definition, because protection was a top priority for this project. Access private modifiers requires extra coding to handle any behaviors from outside the package, which it would involve more coding to accept an outside request and process the request back. Polymorphism could not be applied to this project as it was affecting security and unnecessary code needed to apply to achieve polymorphism.</p>
+The hardest part to implement concepts such encapsulation into the program was to think beyond the meaning of the definition, because protection was a top priority for this project. Access private modifiers requires extra coding to handle any behaviors from outside the package, which it would involve more coding to accept an outside request and process the request back. Polymorphism could not be applied to this project as it was affecting security and unnecessary code needed to apply to achieve this.</p>
 
 FOR LOOPS
 <p align = "justify">
