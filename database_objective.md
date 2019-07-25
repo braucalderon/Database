@@ -31,7 +31,7 @@ Iterations using for loops were used to cut unnecessary extra code and for batte
 
 BRANCHING USING IF-ELSE STATEMENTS 
 <p align = "justify">
-A lot of if-else statements were used to update and get data from the database, using this concept was difficult because of the run-time performance level already affecting the program itself and ability to perform the task without getting locked out from the database. Few runtime performance were solved by using for loops and others by rearranging the structural layout of the code still using  if-else statements.</p>
+A lot of if-else statements were used to update and get data from the database, using this concept was difficult because of the run-time performance level already affecting the program itself, and the ability to perform the task without getting locked out from the database. Few runtime performance issues were solved by using for loops, and others by rearranging the structural layout of the code still using if-else statements.</p>
 
 
 
