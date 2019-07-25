@@ -14,6 +14,11 @@ Login
 
 <img width="476" alt="Screen Shot 2019-07-25 at 4 12 31 PM" src="https://user-images.githubusercontent.com/17528320/61905800-ed208f80-aef7-11e9-9f97-bc2582df6c63.png">
 
+Main Panel
+
+<img width="1307" alt="Screen Shot 2019-07-25 at 4 14 22 PM" src="https://user-images.githubusercontent.com/17528320/61906001-64eeba00-aef8-11e9-9088-f02e553dca65.png">
+
+
 
 
 
