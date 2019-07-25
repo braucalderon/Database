@@ -6,6 +6,9 @@ The software will not only communicate and retrieve data from the database. The 
 
 The program will do the following tasks, update overnights, distribute data into the panel based on the user request, adding and subtracting days based on user input and updated overnights by the system. A separated registration GUI system is added with administrative privileges to delete wrong data input the user and registered employees into the system.  
 
+The imagine below shows the structure of the database.
+
+<img width="1089" alt="Screen Shot 2019-07-25 at 3 24 15 PM" src="https://user-images.githubusercontent.com/17528320/61903500-a8462a00-aef2-11e9-9a5e-c0f2e6126bdc.png">
 
 
 
