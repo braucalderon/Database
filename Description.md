@@ -33,11 +33,11 @@ POLYMORPHISM & ENCAPSULATION
 
 FOR LOOPS
 <p align = "justify">
-Iterations using for loops were used to cut unnecessary extra code for better functionality. I learned new techniques using for loops to achieve a faster output by implementing statements.  A lot of triggers that could had been implemented into the database were applied into the code instead. I only learned the basic update and select statements specifying specific data, as well to loop throughout the whole table.</p>
+Iterations using for loops were used to cut unnecessary extra code for better functionality. I learned new techniques using for loops to achieve a faster output by implementing additional conditions into the statement.  A lot of triggers that could had been implemented into the database were applied into the code instead.</p>
 
 BRANCHING USING IF-ELSE STATEMENTS 
 <p align = "justify">
-A lot of if-else statements were used to update and get data from the database, using this concept was difficult because of the run-time performance level already affecting the program itself, and the ability to perform the task without getting locked out from the database. Few runtime performance issues were solved by using for loops, and others by rearranging the structural layout of the code still using if-else statements.</p>
+A lot of if-else statements were used to update and retrieve data from the database, using this concept was difficult because of the run-time performance level already affecting the program itself, and the ability to perform the task without getting locked out from the database. The runtime performance issues encountered were solved by using for loops, and rearranging the structural layout of the code.</p>
 
 
 
