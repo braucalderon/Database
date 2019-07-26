@@ -28,7 +28,7 @@ POLYMORPHISM & ENCAPSULATION
 
 FOR LOOPS
 <p align = "justify">
-Iterations using for loops were used to cut unnecessary extra code and for better functionality. I learned new techniques using for loops to achieve a faster output by implementing statements.  A lot of triggers that could had been implemented into the database were applied into the code instead. I only learned the basic update and select statements specifying specific data, as well to loop throughout the whole table.</p>
+Iterations using for loops were used to cut unnecessary extra code for better functionality. I learned new techniques using for loops to achieve a faster output by implementing statements.  A lot of triggers that could had been implemented into the database were applied into the code instead. I only learned the basic update and select statements specifying specific data, as well to loop throughout the whole table.</p>
 
 BRANCHING USING IF-ELSE STATEMENTS 
 <p align = "justify">
