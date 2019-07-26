@@ -20,6 +20,8 @@ Main Panel.
 
 Edit and Registration panel.
 
+<img width="617" alt="Screen Shot 2019-07-25 at 8 14 09 PM" src="https://user-images.githubusercontent.com/17528320/61916958-d5a5ce80-af18-11e9-9c2e-8e560a220ce4.png">
+
 
 
 CHALLENGES:
