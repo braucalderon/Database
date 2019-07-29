@@ -28,7 +28,7 @@ CHALLENGES:
 
 POLYMORPHISM & ENCAPSULATION
 <p align = "justify">
-  Implementing the right encapsulation into the program and providing some level of security was a concern because security was the main priority for this project. Access private modifiers requires extra coding to handle any behaviors from outside the class or package, which it would involve extra coding to accept an outside request and process the request within the class and process it back out. Instead, access protected modifiers were implemented into the code to accomplish the right encapsulation and provide some level of protection. Polymorphism could not be applied to this project as it was affecting security and unnecessary code needed to achieve polymorphism.
+  Implementing the right encapsulation into the program and providing some level of security was a concern because security was the main priority for this project. Access private modifiers requires extra coding to handle any behaviors from outside the class or package, which it would involve extra coding to accept an outside request and process the request within the class and process it back out. Instead, access protected modifiers were implemented into the code to accomplish the right encapsulation and provide some level of protection.
 </p>
 
 FOR LOOPS
