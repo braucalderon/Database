@@ -28,7 +28,7 @@ CHALLENGES:
 
 POLYMORPHISM & ENCAPSULATION
 <p align = "justify">
-  Implementing the right encapsulation into the program and providing some level of security was a concern because security was the main priority for this project. Access private modifiers requires extra coding to handle any behaviors from outside the class or package, which it would involve extra coding to accept an outside request and process the request within the class and process it back out. Instead, access protected modifiers were implemented to the code to accomplish the right encapsulation and provide some level of protection.
+Both concepts were inplemented to the best of my knowledge throughout the program. 
 </p>
 
 FOR LOOPS
@@ -38,6 +38,7 @@ Iterations using for loops were used to cut unnecessary extra code for better fu
 BRANCHING USING IF-ELSE STATEMENTS 
 <p align = "justify">
 A lot of if-else statements were used to update and retrieve data from the database, using this concept was difficult because of the run-time performance level already affecting the program itself, and the ability to perform the task without getting locked out from the database. The runtime performance issues encountered were solved by using for loops, and rearranging the structural layout of the code.</p>
+
 
 ISSUES:
 
