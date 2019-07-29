@@ -39,6 +39,11 @@ BRANCHING USING IF-ELSE STATEMENTS
 <p align = "justify">
 A lot of if-else statements were used to update and retrieve data from the database, using this concept was difficult because of the run-time performance level already affecting the program itself, and the ability to perform the task without getting locked out from the database. The runtime performance issues encountered were solved by using for loops, and rearranging the structural layout of the code.</p>
 
+ISSUES:
+
+<p align = "justify">
+The update modifier concept implemneted to the program is not working as expected. 
+</p>
 
 
 
