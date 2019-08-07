@@ -1,4 +1,4 @@
-// Coonect file
+// Connect file
 <?php
 
 function db_connect() {
@@ -9,7 +9,7 @@ function db_connect() {
     // Try and connect to the database, if a connection has not been established yet
     if(!isset($connection)) {
          // Load configuration as an array. Use the actual location of your configuration file
-        $conf = parse_ini_file('../conf.ini');
+        $conf = parse_ini_file('../config.ini');
         $connection = mysqli_connect('localhost',$conf['username'],$conf['password'],$conf['dbname']);
         // echo "Connected";
     }
