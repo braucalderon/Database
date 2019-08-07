@@ -1,3 +1,4 @@
+// View Controller 
 
 import UIKit
 
@@ -118,3 +119,19 @@ class ViewController: UIViewController {
     
 }// end class
 
+
+// Location
+
+import Foundation
+
+struct Location {
+    
+    var firstname = " "
+    var lastname = " "
+    var room = " "
+    var freenights = " "
+    var paidnights = " "
+    var totalnights = " "
+    
+    
+}// end class 
