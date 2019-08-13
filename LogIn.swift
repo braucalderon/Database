@@ -52,31 +52,26 @@ class ViewController: UIViewController {
     // Button
     @IBAction func LoginButtonAction(_ sender: UIButton){
         
-        let url = NSURL(string: "https://braucalderon.com/service.php")
-        if(isSelector == true){
+       if(isSelector == true){
             
-            var request = URLRequest(url:url! as URL)
+            let url = NSURL(string: "https://braucalderon.com/service.php")!
+            var request = URLRequest(url: url as URL)
+            request.setValue("application/x-www-form-urlencoded", forHTTPHeaderField: "Content-Type")
             request.httpMethod = "POST"
-    
-            let secreWord:String! = "word=Abet12!"
-            print(secreWord!)
-            let room1:String! = "&room=\(room.text!)".lowercased()
-            print(room1!)
-            let last1:String! = "&last=\(last.text!)".lowercased()
-            print(last1!)
             
-            // convert string post to  utf8
-            let convert = secreWord.data(using: .utf8)!
-            let convert1 = room1.data(using: .utf8)!
-            let convert2 = last1.data(using: .utf8)!
+            // Thread 1: Fatal error: Unexpectedly found nil while unwrapping an Optional value
+            let parameters = "last=\(_last!)"
+            request.httpBody = parameters.data(using: .utf8)
             
             
-            let task = URLSession.shared.uploadTask(with: request, from: convert){ data, response, error in
+            let task = URLSession.shared.dataTask(with: request){ data, response, error in
                 if error != nil{
                     print("Failed to download")
                 }else{
-                   self.parseJason(data!)
+                    
                     self.performSegue(withIdentifier: "main", sender: self)
+                    self.parseJason(data!)
+                    
                     print("Data downloaded!")
                 }
             }
@@ -84,7 +79,6 @@ class ViewController: UIViewController {
         }
         
     }
-    
     func parseJason(_ data: Data){
         var locArray = [Location]()
         
