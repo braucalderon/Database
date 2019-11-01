@@ -26,11 +26,6 @@ Edit and Registration panel.
 
 CHALLENGES:
 
-POLYMORPHISM & ENCAPSULATION
-<p align = "justify">
-Both concepts were inplemented to the best of my knowledge throughout the program. 
-</p>
-
 FOR LOOPS
 <p align = "justify">
 Iterations using for loops were used to cut unnecessary extra code for better functionality. I learned new techniques using for loops to achieve a faster output by implementing additional conditions into the statement.  A lot of triggers that could had been implemented into the database were applied into the code instead.</p>
