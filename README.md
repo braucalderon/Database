@@ -33,3 +33,8 @@ Iterations using for loops were used to cut unnecessary extra code for better fu
 ### BRANCHING USING IF-ELSE STATEMENTS
 <p align = "justify">
 A lot of if-else statements were used to update and retrieve data, using this concept was difficult because of the run-time performance affecting the program which it prompted the database to get locked out. The runtime performance issues encountered were solved by using for loops, and rearranging the structural layout of the code.</p>
+
+### NOTE
+<p align = "justify">
+This concept even though it was my first personal project, I learned a lot and overtime I realized the mistakes done in the code, even though it works. Simple mistakes like making it more readable, for example, creating separate classes with the ability to upgrade it and improve the system. </p>
+
