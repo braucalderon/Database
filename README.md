@@ -36,5 +36,5 @@ A lot of if-else statements were used to update and retrieve data, using this co
 
 ### NOTE
 <p align = "justify">
-This concept even though it was my first personal project, I learned a lot and overtime I realized the mistakes done in the code, even though it works. Simple mistakes like making it more readable, for example, creating separate classes with the ability to upgrade it and improve the system. </p>
+This concept even though it was my first personal project, I learned a lot and overtime I realized the mistakes done on the code, even though it works. Simple mistakes like making it more readable, for example, creating separate classes with the ability to upgrade it and improve the system without affecting the rest of the code. Another concept missed in the code was the implementation of java principles like encapsulation as of my understanding so far with this concept and polymorphism. The only java principle applied to this project is inheritance.</p>
 
